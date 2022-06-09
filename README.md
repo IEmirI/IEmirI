@@ -2,7 +2,6 @@
  <div align="center"> 
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/> 
  </div> 
- <p align="center"> </p> 
  <h4 align="center">Visitor's count :eyes:</h4> 
 
   
