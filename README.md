@@ -4,7 +4,6 @@
  </div> 
  <p align="center"> 
  <h4 align="center">Visitor's count :eyes:</h4> 
- </p> 
   
  ## ⚡ Technologies 
   
