@@ -1,3 +1,4 @@
+<body>
 <h1 align="center"> Hey there 👋 </h1> 
  ## ⚡ Technologies 
   
@@ -13,3 +14,4 @@
  ### Operating Systems : 
  ![Windows](https://img.shields.io/badge/Windows-blue.svg?logo=windows&logoColor=white) 
  <br>
+</body>
