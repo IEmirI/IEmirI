@@ -1,5 +1,5 @@
-<h1 align="center"> Hey there 👋 </h1> 
 <body>
+ <h1 align="center"> Hey there 👋 </h1> 
  <div align="center"> <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/> </div> 
  <h4 align="center">Visitor's count :eyes:</h4> 
   </body>
